@@ -1,19 +1,25 @@
-<div align="center">
-  
-  # Steven James
+
 <center>
 
 <!--
 How to make this gif ?
 I created the typescript with https://codesandbox.io/s/github-profile-2ijk7
 I then recorded my screen with Quicktime before converting the file to a gif
-I used this [gist](https://gist.github.com/dergachev/4627207) as a guide
+I used this [gifify](https://github.com/jclem/gifify) as a guide
 -->
 ![welcome_mov mov](https://user-images.githubusercontent.com/91357724/156508954-69f70e80-b9e3-44ab-acd7-ab1c65591b94.gif)
 
 </center>
-  
+
+<div align="center">
+
+I'm a Back-End Software Engineer with an obsession for logic-puzzles and tacos, but not usually at the same time. My background in Sales and Real Estate helped hone my skills in collaboration and creating solutions in high-stress situations. I turned my sights towards software engineering in 2021 when I entered the Back-End Program at Turing School of Software and Design. It always felt strange not being able to answer the question "What do you want to be when you grow up?", but I'm excited to have found my calling and I'm looking forward to my future! 
+
+Please connect with me through LinkedIn or Email below:
+
+
 </div>
+  
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/hirestevenjames/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
