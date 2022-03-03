@@ -2,7 +2,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenjames-turing&layout=compact)](https://github.com/stevenjames-turing/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenjames-turing&repo=little-esty-shop&show_owner=true)](https://github.com/stevenjames-turing/little-esty-shop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenjames-turing&repo=adopt_dont_shop&show_owner=true)](https://github.com/stevenjames-turing/adopt_dont_shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenjames-turing&repo=enigma&show_owner=true)](https://github.com/stevenjames-turing/enigma)
+
 
 
 <!-- 
