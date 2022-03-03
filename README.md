@@ -1,6 +1,17 @@
 <div align="center">
   
   # Steven James
+<center>
+
+<!--
+How to make this gif ?
+I created the typescript with https://codesandbox.io/s/github-profile-2ijk7
+I then recorded my screen with Quicktime before converting the file to a gif
+I used this [gist](https://gist.github.com/dergachev/4627207) as a guide
+-->
+![welcome_mov mov](https://user-images.githubusercontent.com/91357724/156508954-69f70e80-b9e3-44ab-acd7-ab1c65591b94.gif)
+
+</center>
   
 </div>
 
@@ -28,7 +39,14 @@
 
 <hr/>
 
+<center>
+
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjames-turing&theme=nord&show_icons=true))](https://github.com/stevenjames-turing/github-readme-stats)
+
+</center>
+
+
+
 
 
 <!--
@@ -36,18 +54,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenjames-turing&repo=little-esty-shop&show_owner=true)](https://github.com/stevenjames-turing/little-esty-shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenjames-turing&repo=adopt_dont_shop&show_owner=true)](https://github.com/stevenjames-turing/adopt_dont_shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenjames-turing&repo=enigma&show_owner=true)](https://github.com/stevenjames-turing/enigma)
--->
-
-
-<!--
-How to make this gif ?
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
 -->
 
 <!-- 
