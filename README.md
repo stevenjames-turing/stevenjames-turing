@@ -3,7 +3,7 @@
 
 <!--
 How to make this gif ?
-I created the typescript with https://codesandbox.io/s/github-profile-forked-m4den6
+I created the typescript with https://codesandbox.io/
 I then recorded my screen with Quicktime before converting the file to a gif
 I used this [gifify](https://github.com/jclem/gifify) as a guide
 -->
