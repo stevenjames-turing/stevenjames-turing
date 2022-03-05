@@ -47,7 +47,7 @@ Please connect with me through LinkedIn or Email below:
 
 <center>
 
-[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjames-turing&theme=nord&show_icons=true))](https://github.com/stevenjames-turing/github-readme-stats)
+[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjames-turing&theme=nord&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
 
 </center>
 
