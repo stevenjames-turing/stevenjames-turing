@@ -62,7 +62,6 @@ Please connect with me through LinkedIn or Email below:
 <!--
 <img alt="RubyOnRails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenjames-turing&layout=compact)](https://github.com/stevenjames-turing/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenjames-turing&repo=little-esty-shop&show_owner=true)](https://github.com/stevenjames-turing/little-esty-shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenjames-turing&repo=adopt_dont_shop&show_owner=true)](https://github.com/stevenjames-turing/adopt_dont_shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevenjames-turing&repo=enigma&show_owner=true)](https://github.com/stevenjames-turing/enigma)
