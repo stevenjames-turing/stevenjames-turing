@@ -50,12 +50,14 @@ Please connect with me through LinkedIn or Email below:
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stevenjames-turing&theme=nord&show_icons=true" /> 
 </p>
 
-<p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenjames-turing&theme=nord" />
-</p>
+
 
 
 <!--
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenjames-turing&theme=nord" />
+</p>
 ![welcome_mov mov](https://user-images.githubusercontent.com/91357724/156508954-69f70e80-b9e3-44ab-acd7-ab1c65591b94.gif)
 
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjames-turing&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
