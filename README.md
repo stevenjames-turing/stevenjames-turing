@@ -29,11 +29,11 @@ Please connect with me through LinkedIn or Email below:
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
 <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />  
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%2320232a.svg?&style=for-the-badge&logo=GitHub&logoColor=%23EFF7FF" />
 <img alt="RSpec" src="https://img.shields.io/badge/Rspec%20-677d2b.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />    
+<img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 <p align="center">
@@ -62,5 +62,5 @@ Please connect with me through LinkedIn or Email below:
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjames-turing&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevenjames-turing&theme=nord)](https://git.io/streak-stats)
-<img alt="RubyOnRails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+
 -->
