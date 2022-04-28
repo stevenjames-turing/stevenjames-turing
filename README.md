@@ -20,7 +20,7 @@ Please feel free to browse my Resume linked below or connect with me through Lin
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/hirestevenjames/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a target="_blank"href="https://resume.creddle.io/resume/2nvl8s4erje"><img src="https://img.shields.io/badge/Resume-2CA01C?style=for-the-badge&logo=Reason&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a target="_blank"href="https://resume.creddle.io/resume/2nvl8s4erje"><img src="https://img.shields.io/badge/Resume-242B2F?style=for-the-badge&logo=Reason&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:HireStevenJames@gmail.com?subject=Message%20From%20my%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
