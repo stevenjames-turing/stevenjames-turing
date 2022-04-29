@@ -16,7 +16,6 @@ I'm a Back-End Software Engineer with an obsession for logic-puzzles and tacos, 
 Please feel free to browse my Resume linked below or connect with me through LinkedIn and email.
 
 </div>
-  
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/hirestevenjames/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
