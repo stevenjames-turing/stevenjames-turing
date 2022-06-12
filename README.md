@@ -1,10 +1,5 @@
 
-<!--
-How to make this gif ?
-I created the typescript with https://codesandbox.io/
-I then recorded my screen with Quicktime before converting the file to a gif
-I used this [gifify](https://github.com/jclem/gifify) as a guide
--->
+
 <p align="center">
   <img alt="Welcome Gif" src="https://user-images.githubusercontent.com/91357724/156508954-69f70e80-b9e3-44ab-acd7-ab1c65591b94.gif" />
 </p>
