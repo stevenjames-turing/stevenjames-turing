@@ -13,7 +13,7 @@ I used this [gifify](https://github.com/jclem/gifify) as a guide
 
 I'm a Back-End Software Engineer with an obsession for logic-puzzles and tacos, but not usually at the same time. My background in Sales and Real Estate helped hone my skills in collaboration and creating solutions in high-stress situations. I turned my sights towards software engineering in 2021 when I entered the Back-End Program at Turing School of Software and Design. It always felt strange not being able to answer the question "What do you want to be when you grow up?", but I'm excited to have found my calling and I'm looking forward to my future! 
 
-Please feel free to browse my Resume linked below or connect with me through LinkedIn and email.
+I'd love to connect with you through LinkedIn or email.
 
 </div>
 
